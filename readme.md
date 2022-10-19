@@ -1,4 +1,4 @@
-## Diana Lilyanna Cloutier
+# Diana Lilyanna Cloutier
 ## Mes Expériences en programmation:
 ### J'ai commencé à m'intéresser à la programmation en Secondaire 1. Je copiais-collais du code pris sur UnknownCheats et MPGH pour faire des hacks pour Combat Arms. Par la suite, j'ai commencé à m'intéresser à comprendre la programmation pour ne plus devoir copier-coller du code. Je me suis rendu compte que je n'aimais pas le fonctionnement de C++, j'ai donc changé pour le langage C. Par la suite, j'ai changé de Combat Arms à Arma 2 comme jeu cible. Au long de mon secondaire, j'ai développé 3 sites internet en PHP avec un front-end laid et non intuitif. J'ai étudié en programmation au Collège Rosemont, et en création de sites Web au Collège Maisonneuve. Je n'ai pas fini la 2e session dans les 2. J'ai travaillé à mon compte pendant environ 1 an, mais j'ai arrêté en raison de failles de sécurité dans mes logiciels.
 ## Mes attentes envers le cours:
