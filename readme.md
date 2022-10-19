@@ -6,4 +6,4 @@
 ## Mes attentes envers le programme:
 ### À la fin du programme, j'aimerais avoir réussi à revoir mes bases, renforcer mes bases, avoir amélioré ma compréhension de la programmation, avoir bâti des projets intéressants pour un portfolio et trouver un emploi intéressant.
 ## Intérêt Particulier:
-### J'aime les jeux vidéos, la cryptographie et la réseautique. J'essaie d'apprendre la guitare, j'aime jouer à Minecraft, World of Warcraft, Rappelz, 7 Days to Die, Arma 2. J'aime apprendre, j'aimerais apprendre les concepts d'intelligence artificielle et de plusieurs autres concepts. J'aime faire du vélo.
+### J'aime les jeux vidéos, la cryptographie et la réseautique. J'essaie d'apprendre la guitare, j'aime jouer à Minecraft, World of Warcraft, Rappelz, 7 Days to Die, Arma 2. J'aime apprendre, j'aimerais apprendre les concepts d'intelligence artificielle et de plusieurs autres concepts. J'aime faire du vélo. J'aime prendre des marches en plein-air.
